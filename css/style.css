@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.color{
+    background-color: aquamarine;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.tamaño{
+    width: 40%;
+}
